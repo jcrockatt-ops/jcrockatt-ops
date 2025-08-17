@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I’m Jason 👋
+Exploring the intersection of **AI** and **marketing operations**.  
+Currently experimenting with:
+- 🎙️ Voice avatars (ElevenLabs)
+- 🎥 Video avatars (HeyGen)
+- ⚡ Simple workflow automation (Make.com + Google Sheets)
 
-<!--
-**jcrockatt-ops/jcrockatt-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I’m doing here
+This is my **AI Generalist Playground**:
+- Small, practical demos
+- Notes on what worked (and what didn’t)
+- A roadmap of experiments in automation and creative tech
 
-Here are some ideas to get you started:
+## Goals
+- Learn by building, even at hobbyist scale
+- Document clearly for others (and for recruiters)
+- Bridge creative marketing workflows with applied AI tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Links
+- [LinkedIn](https://www.linkedin.com/in/jcrockatt)  
+- [ORCID](https://orcid.org/0009-0009-6202-2532)  
