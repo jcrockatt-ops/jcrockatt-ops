@@ -1,7 +1,7 @@
 # Hi, I’m Jason 👋
 Exploring the intersection of **AI** and **marketing operations**.  
 Currently experimenting with:
-- 🎙️ Voice avatars (ElevenLabs)
+- 🎙️ Voice clones (ElevenLabs)
 - 🎥 Video avatars (HeyGen)
 - ⚡ Simple workflow automation (Make.com + Google Sheets)
 
